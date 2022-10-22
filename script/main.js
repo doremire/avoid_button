@@ -24,8 +24,6 @@ if (input_email.value == '' || input_password.value == '') {
         if (mouse_hover_count % 2 == 0) {
             button_mouse.style.marginRight = null;
 
-            // button_mouse.style.marginLeft = `${mouse_hover_px = mouse_hover_px +100}px`;
-
 
             button_mouse.style.marginLeft = '128px';
 
